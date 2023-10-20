@@ -1,0 +1,1 @@
+2023-10-20 13:54:19,834 HTTPSConnectionPool(host='dffshrg', port=443): Max retries exceeded with url: /status/500 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000145E53206D0>: Failed to resolve 'dffshrg' ([Errno 11001] getaddrinfo failed)"))
